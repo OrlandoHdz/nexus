@@ -24,3 +24,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Archivos de entorno local y binarios de despliegue
+.env
+run_nexus.sh
+nexus-linux-amd64
